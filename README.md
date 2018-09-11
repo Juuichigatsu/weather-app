@@ -1,4 +1,4 @@
-# weather-app
+# React Weather-app
 The Weather App has been created as a small project for practicing technical skills. 
 
 This app is easy in use. 
